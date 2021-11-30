@@ -1,0 +1,1 @@
+document.querySelector('.mobile_menu_trigger').addEventListener('click', () => document.querySelector('.nav_list').classList.toggle('show'));
